@@ -1,5 +1,5 @@
 # vityarthi--PROJECT-- "DONOR HUB"
-An educational web resource (HTML/Tailwind CSS/python) to raise awareness about blood donation eligibility and risks. Part of a school health initiative project.
+An educational web resource (python) to raise awareness about blood donation eligibility and risks. Part of a school health initiative project.
 
 
 **Overview:**
@@ -11,17 +11,53 @@ to provide clear, accessible, and accurate information regarding blood donation 
 
 
 **features:**
-1. The Core Hub: Serves as the main entry point and "registration" form.Welcomes the user and directs them to all the educational resources through clear, styled navigation links.
-2. Eligibility Checker: A mock questionnaire that simulates the complex medical screening process.Provides a simulated "Eligible" or "Deferred" outcome based on simple, predefined rules (age, weight, basic health questions), emphasizing that final eligibility is decided by medical staff.
-3.  Frequently Asked Questions (FAQs) : Answers the most common, straightforward questions about the donation requirements.
-4.  Risks and Safety: Addresses concerns about safety and side effects.Separates Normal & Minor Side Effects (bruising, dizziness) from Rare, Urgent Problems (fainting, sharp pain), assuring the user that the process is overwhelmingly safe.
-5.  Myths and Facts :Combats common misconceptions that prevent people from donating.Debunks rumors about pain, disease transmission, and blood volume, providing accurate facts.
+1)Attractive Title Display: Shows "THE DONOR HUB" with welcome message
+
+2)Personal Information Collection: Name, email, phone, address, gender, first-time donor status
+
+3)Medical Information: Age, weight, hemoglobin, blood group, blood pressure
+
+4)Disease History: Checkbox-style input for all specified medical conditions
+
+5)Female-Specific Questions: Pregnancy, abortion, menstruation status
+
+6)Comprehensive Eligibility Check: Validates all criteria including:
+
+Age (18-65, with first-time donors limited to 60)
+
+Weight (45-80 kg)
+
+Hemoglobin (≥12.5 g/dL)
+
+Blood pressure (approximately 120/80)
+
+No medical conditions
+
+Female-specific criteria
+
+7)Input Validation: Proper validation for email, phone, blood pressure format
+
+8)Clear Results: Shows which criteria passed/failed
+
+9)Precautions Display: Shows all required precautions at the end
+
+**How to Use:**
+1)Run the program
+
+2)Follow the prompts to enter all required information
+
+3)The system will validate inputs and check eligibility
+
+4)View detailed results showing which criteria passed/failed
+
+5)Read important precautions at the end
+
+6)The program is user-friendly and provides clear feedback throughout the registration process.
+
 
 
 **Technology Used**
-HTML: For the structure of all pages.
-
-Tailwind CSS: Used for all modern, responsive, and aesthetic styling (red/white/gray theme).
+PYTHON: This Python program provides a comprehensive blood donation eligibility checker
 
 
 SCREENSHOTS:
