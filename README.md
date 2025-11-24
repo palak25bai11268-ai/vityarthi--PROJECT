@@ -23,7 +23,16 @@ HTML: For the structure of all pages.
 
 Tailwind CSS: Used for all modern, responsive, and aesthetic styling (red/white/gray theme).
 
-JavaScript (in eligibility_check.html): Used for simple client-side form logic and simulating the eligibility outcome.
+
+SCREENSHOTS:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51e40bba-4fce-483b-b205-efbe7669f624" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/78a9cf97-001e-42bf-a82a-6854024ea7c8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/197598d9-c571-4449-b3ab-8ed6d249e4bd" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c1fd25d0-280b-4dd9-9627-3d7a6c2426ed" />
+
+
+
+
 
 
 
